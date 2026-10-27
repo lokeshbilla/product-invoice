@@ -1,6 +1,0 @@
-projectKey=product-invoice
-serverUrl=http://localhost:9000
-serverVersion=26.9.0.129388
-dashboardUrl=http://localhost:9000/dashboard?id=product-invoice
-ceTaskId=b3a8159a-6e4b-4f8a-9b4e-214cc8f91f06
-ceTaskUrl=http://localhost:9000/api/ce/task?id=b3a8159a-6e4b-4f8a-9b4e-214cc8f91f06
